@@ -17,6 +17,9 @@ Successor to *Mellon-Key-Simple* v1.0.0: same mint/verification logic, but the d
 📜⛓️🔷 Solidity contracts follow the *abstract contract* pattern `SBTDescriptor...` + the inheriting contract. For example, `SBTDescriptorCirdan.sol` + `TestSBTCirdan.sol`.
 They were coded keeping in mind the goal of generating a token that, as long as the network where it was minted exists (in this case Base Sepolia), will always preserve and display its metadata for name, description, image, and attributes.
 
+<img width="620" height="623" alt="2026-10-13 10_04_28-cirdan-demo" src="https://github.com/user-attachments/assets/6b0fe31c-9d31-4f40-b115-66c9ec41b448" />
+
+
 ## Table of Contents
 
 - [MellonKey◉fs◉](#mellonkeyfs)
